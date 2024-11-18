@@ -1,0 +1,14 @@
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqJoin/PratikLinqJoin/bin/Debug/net9.0/PratikLinqJoin
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqJoin/PratikLinqJoin/bin/Debug/net9.0/PratikLinqJoin.deps.json
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqJoin/PratikLinqJoin/bin/Debug/net9.0/PratikLinqJoin.runtimeconfig.json
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqJoin/PratikLinqJoin/bin/Debug/net9.0/PratikLinqJoin.dll
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqJoin/PratikLinqJoin/bin/Debug/net9.0/PratikLinqJoin.pdb
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqJoin/PratikLinqJoin/obj/Debug/net9.0/PratikLinqJoin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqJoin/PratikLinqJoin/obj/Debug/net9.0/PratikLinqJoin.AssemblyInfoInputs.cache
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqJoin/PratikLinqJoin/obj/Debug/net9.0/PratikLinqJoin.AssemblyInfo.cs
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqJoin/PratikLinqJoin/obj/Debug/net9.0/PratikLinqJoin.csproj.CoreCompileInputs.cache
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqJoin/PratikLinqJoin/obj/Debug/net9.0/PratikLinqJoin.dll
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqJoin/PratikLinqJoin/obj/Debug/net9.0/refint/PratikLinqJoin.dll
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqJoin/PratikLinqJoin/obj/Debug/net9.0/PratikLinqJoin.pdb
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqJoin/PratikLinqJoin/obj/Debug/net9.0/PratikLinqJoin.genruntimeconfig.cache
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqJoin/PratikLinqJoin/obj/Debug/net9.0/ref/PratikLinqJoin.dll
